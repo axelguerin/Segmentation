@@ -1,0 +1,122 @@
+[
+    {
+        "id": "1",
+        "ca": 27.13,
+        "frequence": 855,
+        "recence": 855
+    },
+    {
+        "id": "2",
+        "ca": 69.37,
+        "frequence": 426.5,
+        "recence": 832
+    },
+    {
+        "id": "3",
+        "ca": 402.71,
+        "frequence": 170.6,
+        "recence": 72
+    },
+    {
+        "id": "4",
+        "ca": 124.17,
+        "frequence": 851,
+        "recence": 851
+    },
+    {
+        "id": "5",
+        "ca": 878.74,
+        "frequence": 84.8,
+        "recence": 125
+    },
+    {
+        "id": "6",
+        "ca": 477.64,
+        "frequence": 108.57,
+        "recence": 104
+    },
+    {
+        "id": "7",
+        "ca": 796.68,
+        "frequence": 105.2,
+        "recence": 409
+    },
+    {
+        "id": "8",
+        "ca": 246,
+        "frequence": 146.67,
+        "recence": 103.04
+    },
+    {
+        "id": "9",
+        "ca": 1009.25,
+        "frequence": 93.52,
+        "recence": 181.04
+    },
+    {
+        "id": "10",
+        "ca": 379.54,
+        "frequence": 231.72,
+        "recence": 1590
+    },
+    {
+        "id": "11",
+        "ca": 175.62,
+        "frequence": 22.17,
+        "recence": 26.04
+    },
+    {
+        "id": "12",
+        "ca": 33.75,
+        "frequence": 57.04,
+        "recence": 57.04
+    },
+    {
+        "id": "13",
+        "ca": 173.83,
+        "frequence": 543,
+        "recence": 543
+    },
+    {
+        "id": "14",
+        "ca": 159.11,
+        "frequence": 117.04,
+        "recence": 117.04
+    },
+    {
+        "id": "15",
+        "ca": 462.62,
+        "frequence": 606.02,
+        "recence": 113.04
+    },
+    {
+        "id": "16",
+        "ca": 1348.34,
+        "frequence": 192.67,
+        "recence": 234.96
+    },
+    {
+        "id": "17",
+        "ca": 125.66,
+        "frequence": 133.33,
+        "recence": 139
+    },
+    {
+        "id": "18",
+        "ca": 623.88,
+        "frequence": 266,
+        "recence": 118.04
+    },
+    {
+        "id": "19",
+        "ca": 861.12,
+        "frequence": 656,
+        "recence": 1957
+    },
+    {
+        "id": "20",
+        "ca": 205.71,
+        "frequence": 410,
+        "recence": 1222
+    }
+]
